@@ -1,0 +1,50 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activesupport (3.1.12)
+      multi_json (~> 1.0)
+    byebug (10.0.0)
+    coderay (1.1.2)
+    concurrent-ruby (1.0.5)
+    diff-lcs (1.3)
+    dry-initializer (2.4.0)
+    faker (1.8.7)
+      i18n (>= 0.7)
+    i18n (1.0.0)
+      concurrent-ruby (~> 1.0)
+    method_source (0.9.0)
+    multi_json (1.13.1)
+    pry (0.11.3)
+      coderay (~> 1.1.0)
+      method_source (~> 0.9.0)
+    pry-byebug (3.6.0)
+      byebug (~> 10.0)
+      pry (~> 0.10)
+    rspec (3.7.0)
+      rspec-core (~> 3.7.0)
+      rspec-expectations (~> 3.7.0)
+      rspec-mocks (~> 3.7.0)
+    rspec-core (3.7.1)
+      rspec-support (~> 3.7.0)
+    rspec-expectations (3.7.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.7.0)
+    rspec-mocks (3.7.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.7.0)
+    rspec-support (3.7.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  activesupport
+  byebug
+  dry-initializer
+  faker
+  pry
+  pry-byebug
+  rspec
+
+BUNDLED WITH
+   1.16.1

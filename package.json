@@ -2,7 +2,7 @@
   "name": "openapi-dsl",
   "version": "0.0.0",
   "private": true,
-  "description": "Provides useful tools for working with the OpenAPI spec",
+  "description": "Tools for working with the OpenAPI spec",
   "scripts": {
     "watch": "swagger-ui-watcher ./openapi.yaml"
   },
